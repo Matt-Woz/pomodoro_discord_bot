@@ -2,9 +2,9 @@
 Simple discord bot which acts as a pomodoro timer.
 
 # Commands:
-Help: +help
-Start pomodoro: +pomodoro <Duration of pomodoro>
-Stop pomodoro: +stop
+Help: +help\
+Start pomodoro: +pomodoro <Duration of pomodoro>\
+Stop pomodoro: +stop\
 
  
 
